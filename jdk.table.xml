@@ -1,0 +1,100 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 3.6.5 (sftp://flokain@172.21.33.113:22/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="sftp://flokain@172.21.33.113:22/usr/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-433906924/201545291" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-433906924/-1171821208" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-433906924/setuptools-39.1.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-433906924/1395855897" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-433906924/-1382175924" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-433906924" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="9f42957d-76b7-46d1-b3dd-943961bb5d3e" WEB_SERVER_CONFIG_NAME="flokain@172.21.33.113:22" WEB_SERVER_CREDENTIALS_ID="sftp://flokain@172.21.33.113:22" INTERPRETER_PATH="/usr/bin/python3" HELPERS_PATH="/home/flokain/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-433906924/201545291" remote-root="/usr/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-433906924/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-433906924/setuptools-39.1.0-py3.6.egg" remote-root="/usr/local/lib/python3.6/dist-packages/setuptools-39.1.0-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-433906924/1395855897" remote-root="/usr/local/lib/python3.6/dist-packages/pip-10.0.1-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-433906924/-1382175924" remote-root="/usr/local/lib/python3.6/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="C:\Python36\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Python36/DLLs" type="simple" />
+            <root url="file://C:/Python36/Lib" type="simple" />
+            <root url="file://C:/Python36" type="simple" />
+            <root url="file://C:/Python36/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1184660488" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (ulti-players)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="C:\Users\fkain\PycharmProjects\ulti-players\backend\frisbee-venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/ulti-players/backend/frisbee-venv/Lib" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/ulti-players/backend/frisbee-venv/Scripts" type="simple" />
+            <root url="file://C:/Python36/Lib" type="simple" />
+            <root url="file://C:/Python36/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/ulti-players/backend/frisbee-venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/ulti-players/backend/frisbee-venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-2011455623" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/ulti-players" />
+    </jdk>
+  </component>
+</application>

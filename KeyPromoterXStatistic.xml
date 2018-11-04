@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Add New Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
+          <ShortCut>'Alt+Einfg'</ShortCut>
+          <Description>Add New Row</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
@@ -22,7 +30,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Database</Description>
-          <Count>27</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -31,6 +39,14 @@
           <ShortCut>'Strg+B' or 'Strg+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'Strg+Y'</ShortCut>
+          <Description>Delete Row</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -57,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'Strg+Eingabe'</ShortCut>
+          <Description>Execute</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Home Directory">
         <Item>
           <IdeaActionID>FileChooser.GotoHome</IdeaActionID>
@@ -70,7 +94,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>7</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -113,12 +137,28 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Source Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
+          <ShortCut>'Strg+B' or 'Strg+Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Source Editor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'Strg+Eingabe'</ShortCut>
+          <Description>Submit</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize">
         <Item>
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Strg+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">

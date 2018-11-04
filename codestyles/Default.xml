@@ -1,1 +1,6 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <CsvCodeStyleSettings>
+    <option name="WHITE_SPACES_OUTSIDE_QUOTES" value="false" />
+    <option name="LEADING_WHITE_SPACES" value="true" />
+  </CsvCodeStyleSettings>
+</code_scheme>

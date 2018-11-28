@@ -134,7 +134,7 @@
           <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Edit...</Description>
-          <Count>5</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -182,7 +182,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Einfg'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>13</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -246,7 +246,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>40</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'dataReaders'">
@@ -310,7 +310,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>17</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'dataReaders'">
@@ -318,6 +318,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Strg+F2'</ShortCut>
           <Description>Stop 'dataReaders'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'quartettCreator'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Strg+F2'</ShortCut>
+          <Description>Stop 'quartettCreator'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -374,7 +382,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Strg+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>46</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">

@@ -318,7 +318,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Umschalt+F10'</ShortCut>
           <Description>Run 'run'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test_shellcommands'">
@@ -351,6 +351,14 @@
           <ShortCut>'Strg+Umschalt+F10'</ShortCut>
           <Description>Run 'xmlManipulator'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run manage.py Task...">
+        <Item>
+          <IdeaActionID>Django.RunManageTaskAction</IdeaActionID>
+          <ShortCut>'Strg+Alt+R'</ShortCut>
+          <Description>Run manage.py Task...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">

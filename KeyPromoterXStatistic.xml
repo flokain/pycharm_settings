@@ -49,6 +49,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'Strg+X' or 'Umschalt+Löschen'</ShortCut>
+          <Description>Cut</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Database">
         <Item>
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
@@ -201,12 +209,28 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New Watch...">
         <Item>
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Einfg'</ShortCut>
           <Description>New Watch...</Description>
           <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Strg+V' or 'Umschalt+Einfg'</ShortCut>
+          <Description>Paste</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">

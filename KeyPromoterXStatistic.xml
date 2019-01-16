@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Strg+B' or 'Strg+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>14</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -225,6 +225,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Method...">
+        <Item>
+          <IdeaActionID>ExtractMethod</IdeaActionID>
+          <ShortCut>'Strg+Alt+M'</ShortCut>
+          <Description>Method...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move...">
         <Item>
           <IdeaActionID>Move</IdeaActionID>
@@ -286,7 +294,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Umschalt+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dataReaders'">

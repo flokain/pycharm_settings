@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Strg+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Database</Description>
-          <Count>57</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -150,7 +150,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Löschen'</ShortCut>
           <Description>Delete...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -478,7 +478,7 @@
           <IdeaActionID>Django.RunManageTaskAction</IdeaActionID>
           <ShortCut>'Strg+Alt+R'</ShortCut>
           <Description>Run manage.py Task...</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -614,7 +614,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Strg+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -654,7 +654,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Umschalt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>

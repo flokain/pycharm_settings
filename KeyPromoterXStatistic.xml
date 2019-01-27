@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Strg+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>38</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -278,7 +278,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Strg+Umschalt+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo Unindent Line or Selection">

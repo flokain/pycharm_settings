@@ -57,6 +57,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Strg+Alt+Umschalt+C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Cut">
         <Item>
           <IdeaActionID>$Cut</IdeaActionID>
@@ -185,6 +193,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="File Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Strg+Alt+F12'</ShortCut>
+          <Description>File Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find Usages">
         <Item>
           <IdeaActionID>FindUsages</IdeaActionID>
@@ -310,7 +326,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Umschalt+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dataReaders'">

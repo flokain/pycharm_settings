@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'pytest in fkain'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'pytest in fkain'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'run'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -313,6 +321,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Quick Definition">
+        <Item>
+          <IdeaActionID>QuickImplementations</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+I'</ShortCut>
+          <Description>Quick Definition</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Redo Unindent Line or Selection">
         <Item>
           <IdeaActionID>$Redo</IdeaActionID>
@@ -390,7 +406,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -406,7 +422,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Dockerfile'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Test: ultimate_frisbee_management.tests.testApiStartSession'">
@@ -438,6 +454,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Strg+Umschalt+F10'</ShortCut>
           <Description>Run 'dataReaders'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'pytest in fkain'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'pytest in fkain'</Description>
           <Count>3</Count>
         </Item>
       </Statistic>
@@ -534,7 +558,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>51</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'dataReaders'">
@@ -654,7 +678,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Strg+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>117</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">

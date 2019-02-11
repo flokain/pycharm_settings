@@ -342,7 +342,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Umschalt+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'dataReaders'">
@@ -399,6 +399,14 @@
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Dockerfile'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Dockerfile'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Test: ultimate_frisbee_management.tests.testApiStartSession'">

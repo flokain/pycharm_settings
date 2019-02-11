@@ -89,6 +89,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Doctests in test_shellcommands'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Doctests in test_shellcommands'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Test: ultimate_frisbee_management.tests.testApiStartSession'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>

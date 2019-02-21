@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="db" type="Native" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping pattern="sample xml" type="XML" />
     </extensionMap>
   </component>

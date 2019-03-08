@@ -270,7 +270,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Strg+Umschalt+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Home Directory">
@@ -446,7 +446,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Dockerfile'">
@@ -494,6 +494,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'pytest for test_rest_asa.test_asa_authtest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'pytest for test_rest_asa.test_asa_deploy_cert'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'pytest for test_rest_asa.test_asa_deploy_cert'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -742,7 +750,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">

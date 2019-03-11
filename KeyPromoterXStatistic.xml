@@ -350,7 +350,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -550,7 +550,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'pytest in fkain'</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pytest'">

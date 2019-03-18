@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Strg+B' or 'Strg+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>80</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -222,7 +222,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'Strg+F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>13</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -390,7 +390,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>13</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -830,7 +830,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Strg+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>23</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">

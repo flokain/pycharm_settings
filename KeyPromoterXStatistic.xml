@@ -494,7 +494,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>161</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -518,7 +518,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Dockerfile'</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Test: ultimate_frisbee_management.tests.testApiStartSession'">
@@ -846,7 +846,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Strg+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>274</Count>
+          <Count>275</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">

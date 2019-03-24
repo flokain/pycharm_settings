@@ -654,7 +654,7 @@
           <IdeaActionID>Django.RunManageTaskAction</IdeaActionID>
           <ShortCut>'Strg+Alt+R'</ShortCut>
           <Description>Run manage.py Task...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">

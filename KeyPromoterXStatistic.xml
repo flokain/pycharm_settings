@@ -177,6 +177,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ultiplayers-dev server'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ultiplayers-dev server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'xmlManipulator'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>

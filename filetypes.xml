@@ -6,6 +6,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping pattern="sample xml" type="XML" />
+      <removed_mapping pattern="test_views.py" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
